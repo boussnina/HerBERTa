@@ -9,7 +9,7 @@ from ultralytics import YOLO
 from htrocr.run import NHMDPipeline as pipe
 
 TEMP_DIR = "tempory_files"#
-IMAGE_DIR = "images"
+IMAGE_DIR = "IMAGES"
 
 
 if not os.path.exists(TEMP_DIR):
@@ -147,7 +147,7 @@ def main():
     db = Database()
 
     # Assume multiple images to process
-    image_paths = [os.path.join("images", img) for img in os.listdir("images")]
+    image_paths = [os.path.join("IMAGES", img) for img in os.listdir("IMAGES")]
 
     for img_path in image_paths:
         texts = process_image(img_path, label_detector, ocr_component)
@@ -176,11 +176,10 @@ def main():
             elif label == "LON":
                 lon = entity
         db.add_row(os.path.basename(img_path), header, plant, person, date, loc, lat, lon)
-    db.save(save_dir)
+
     db._print_df()
     #
 if __name__ ==  "__main__":
-    # main()
-    df = pd.read_csv("output/output.csv")
+    main()
     
 

@@ -1,0 +1,1058 @@
+{
+    "classes": ["HEADER", "DATE", "PERSON", "LOC", "LAT", "LON", "PLANT"],
+    "annotations": [
+        [
+            "        \"Botanic Museum of the University, Copenhagen Greenland Plants No. 36. Agrostis borealis Hartm. Lat. Akullarssat-Fjældet Long. Alt. Loc. Det. Johs. Grøntves Date: 29.VIII.1948. leg. C. A.Jørgensen \"",
+            {
+                "entities": [
+                    [9, 70, "PERSON"],
+                    [79, 103, "PLANT"],
+                    [109, 128, "LOC"],
+                    [145, 164, "PERSON"],
+                    [165, 184, "DATE"],
+                    [185, 204, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Museum Botanicum Hauniense Greenland Botanical Survey Plants of Northeast Greenland No. ommennens Salix arctica Pall. Hab: Loc, Germania Land, Hvalrosodden Lat. 76057' N. Long. 2010' W., Alt. 20 m Date 1989, July 12 - 17 Leg: David Boertmann Det; Christian Bay \"",
+            {
+                "entities": [
+                    [8, 93, "PERSON"],
+                    [108, 127, "PLANT"],
+                    [131, 165, "LOC"],
+                    [166, 180, "LAT"],
+                    [181, 195, "LON"],
+                    [207, 230, "LON"],
+                    [231, 251, "PERSON"],
+                    [252, 270, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Grønlands Botaniske Undersøgelse Plantae Groenlandicae No. 667 Qamagrostis langs de ommener Pedersen f. P.C.Vennemensen TkrIV. Kangerdluarssuk Lat. 61° 06' N., Long. 46° 12' W. Lec. Carlo Hansen 100 m a.s.1. 4 17 1962. Det. Kjeld Holmen Un 02,201 - 5 \"",
+            {
+                "entities": [
+                    [10, 91, "HEADER"],
+                    [100, 137, "PLANT"],
+                    [164, 179, "LOC"],
+                    [180, 195, "LAT"],
+                    [197, 213, "LON"],
+                    [214, 231, "PERSON"],
+                    [256, 273, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Grønlands Botaniske Undersøgelse Plantae Groenlandicae No. 234 Botrychium sp renaria (L.) SW. Sermiligarssuk Lat. 61° 32' N., Long, 48° 35' W. J. Johs. Johansen Leg. (Kjold Hansen 300 m a.s.1. 8 18 1965. Det. Un 02,201.5 \"",
+            {
+                "entities": [
+                    [10, 91, "HEADER"],
+                    [100, 126, "PLANT"],
+                    [131, 145, "LOC"],
+                    [146, 161, "LAT"],
+                    [161, 176, "LON"],
+                    [177, 197, "PERSON"],
+                    [198, 216, "PERSON"],
+                    [230, 240, "DATE"]
+                ]
+            }
+        ],
+        [
+            "        \" None Museum Botanicum Hauniense Greenland Botanical Survey No. 83.346 E.5. -munens Poa pratensis L. coll. Hmb: Herb-slope, with Salix arctica, Rhodiola, Carex scirpoidea and Taraxacum croceum. W-faring, 20-30°. Loc. Jameson Land, Ørsted Dal, Ailday Dal, Læs. 71944° N., Long 23° 23' W.,° 150 m 1983, August 15 Leg. Sune Holt & Birger Kruse D82: Suna Hol \"",
+            {
+                "entities": [
+                    [10, 72, "HEADER"],
+                    [93, 109, "PLANT"],
+                    [133, 151, "PLANT"],
+                    [151, 202, "PLANT"],
+                    [221, 262, "LOC"],
+                    [264, 278, "LAT"],
+                    [278, 295, "LON"],
+                    [304, 319, "DATE"],
+                    [320, 349, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense S.1. Kap Farvel Ekspeditionen 1970 G.B.V. 1847 Cochlearia groenlandica L. Julianehåb distr.: Pamiagdluk: - Entrance of Tasmussaq Leg.: Niels Jacobsen 984 59° 57' N. lat. 44° 21' W. long. 17. Juli 1970 det. \"",
+            {
+                "entities": [
+                    [10, 83, "HEADER"],
+                    [84, 110, "PERSON"],
+                    [111, 165, "LOC"],
+                    [166, 186, "PERSON"],
+                    [191, 201, "LAT"],
+                    [202, 223, "LON"],
+                    [224, 237, "DATE"]
+                ]
+            }
+        ],
+        [
+            "        \" Museum Botanicum Hauniense Greenland Botanical Survey W. 5. No. 83° 4623 Potentilla nivea L. emend. Hult. Hmb: Dry gravely slope. Loc. Diskofjord, Daugaard - Jensen Dal Alt 200 m Lær, 69° 35' Nr. Long. 53005' W., Lag. & det: Ida Feilberg Date 1983, August 31. \"",
+            {
+                "entities": [
+                    [10, 63, "HEADER"],
+                    [83, 102, "PLANT"],
+                    [140, 178, "LOC"],
+                    [194, 201, "LON"],
+                    [206, 217, "LON"],
+                    [223, 247, "PERSON"],
+                    [248, 269, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Greenland Botanical Survey Plants of West. Greenland W.4. No. 88- 908 erastium alpinum L. ssp. lanatum (Lam.) Asch. & Graebn. Hæb: S-faring rocks. Loc. Nordre Strømfjord, Eqalugarssuit nøat Lat. 67° 35' N., Long. 5300b° 12' W., Alt. 5 m Leg. & Det.: Bent Fredskild & Vilhelm Dalgaard Date 1988, July 16 \"",
+            {
+                "entities": [
+                    [10, 89, "HEADER"],
+                    [107, 162, "PLANT"],
+                    [184, 221, "LOC"],
+                    [227, 242, "LAT"],
+                    [244, 263, "LON"],
+                    [274, 320, "PERSON"],
+                    [321, 339, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Botanic Museum of the University, Copenhagen Greenland Plants 52 a Draba alpina L. No lat. 71° 15' N Long. 240° 0' W Alt. 25 - 50 m Loc. Scoresbysund: Jameson Land, Gurreholm, Heath vegetation, leg. er Dr. Thorv. Sørensen Date: August 1937-10. VIII \"",
+            {
+                "entities": [
+                    [10, 71, "HEADER"],
+                    [77, 92, "PLANT"],
+                    [96, 110, "LAT"],
+                    [111, 124, "LON"],
+                    [142, 202, "LOC"],
+                    [204, 231, "PERSON"],
+                    [232, 258, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" \\\" Museum Botanicum Hauniense Greenland Botanical Survey Knud Rasmussen Mindeekspedition 1979 W.6. No. 146 Hierochloë alpina (Willd.) R. & Sommermann Hab.: Dry, SE-exposed slope. Loc. Melville Bugt, Tugtuligssuaq Ldt. 75° 24' N., long 58° 33' W. Ak. 350 m Leg. et det. Christian Bay & Bent Fredskild 1979, July 22 \"",
+            {
+                "entities": [
+                    [13, 103, "HEADER"],
+                    [117, 159, "PLANT"],
+                    [164, 222, "LOC"],
+                    [228, 238, "LAT"],
+                    [240, 252, "LON"],
+                    [266, 309, "PERSON"],
+                    [310, 323, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Botanical Museum of the University, Copenhagen The Botanical Expedition to West-Greenland 1946 No. 42 Vascular Plants Salamagrostis Langsdorfii (Lunk) Trin. Pa 66° Lat. N. Date 23/7 Alt. 100 m. leg. et det. Tyge W. Böcher \"",
+            {
+                "entities": [
+                    [10, 104, "HEADER"],
+                    [112, 166, "PLANT"],
+                    [170, 178, "LAT"],
+                    [182, 191, "DATE"],
+                    [201, 231, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Botanic Museum of the University, Copenhagen Greenland Plants No 27 1. Pedicularis flammen Lat. Long. Alt. Paa Augusta-Dalen) om Johsforretør Date: 6-VIII, 1948 Lov C. R. Jørgensen \"",
+            {
+                "entities": [
+                    [10, 71, "HEADER"],
+                    [81, 100, "PLANT"],
+                    [112, 151, "LOC"],
+                    [152, 170, "DATE"],
+                    [171, 190, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" ummer Kommunen Lox herbacea L. indgennemennemmernig Kommune Kommuner Hab: M-faring herb-slope. Snow-patches with Harrimanella hypnoides. Loc Sydombugten, betweenhead of Qarajaq and point 516 Læs, 58° 46'4' M., long. 30°6° 31' W. At. 42 h 25 mere de Sonneval 1981, July 17 Det.: \"",
+            {
+                "entities": [
+                    [10, 24, "HEADER"],
+                    [25, 40, "PLANT"],
+                    [123, 146, "PLANT"],
+                    [147, 200, "PLANT"],
+                    [201, 215, "LAT"],
+                    [220, 234, "LON"],
+                    [268, 286, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" DEN DANSKE ARKTISKE STATION. DISKO, GRØNLAND. Palie givnelandia (den ) Lundof { Ple Rasmussen Jensen Salix. Axelophel GROENL. OCCID. S. Disko, Godhavn, 69° 15' Lat. bor. \\\" \\\" m.m. Blæsedelen. A. E. Porsild. 22 16 determ. B. Floderus 1933. 1924. \"",
+            {
+                "entities": [
+                    [8, 55, "HEADER"],
+                    [56, 87, "PLANT"],
+                    [90, 110, "PERSON"],
+                    [111, 127, "PLANT"],
+                    [128, 160, "LOC"],
+                    [162, 174, "LAT"],
+                    [203, 217, "PERSON"],
+                    [224, 243, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Botanical Museum of the University, Copenhagen Universitetets Arktiske Station i Godhavn Plants of West Greenland No 35 Draberg hørte Lærerbolg paa ½ g c af Jakobshavns Esblink rat. 69° 08' N., Lang. 51° 06' W., Al. 10 - Date 10/7 66 Leg. Simon Lægaard Un 02,201-5 \"",
+            {
+                "entities": [
+                    [10, 123, "HEADER"],
+                    [130, 153, "PLANT"],
+                    [167, 186, "LOC"],
+                    [192, 202, "LAT"],
+                    [202, 220, "LON"],
+                    [231, 243, "DATE"],
+                    [244, 262, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Museum Botanicum Hauniense Greenland Botanical Survey No 4. No. 2857 Cystopteris fragilis (L. (Bernh. Hab.: In E-exposed scree. Loe. Gdr. Strømfjord, at Store Saltsø Lat. 6609' N., Long. 50° 37' W., at., 250 m Date 1981, Aug. 25 jeg. Bent Fredskild Det. \"",
+            {
+                "entities": [
+                    [10, 63, "HEADER"],
+                    [74, 103, "PLANT"],
+                    [138, 175, "LOC"],
+                    [176, 189, "LAT"],
+                    [191, 207, "LON"],
+                    [220, 238, "DATE"],
+                    [244, 263, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Nauriense Grønlands Botaniske Undersøgelse Plantae Groenlandicae E.4. G.B.V. 3581 Viscaria alpina (L.) G.Don Hab. Cassiope heath. Kangerdlugssuaq distr.: Mudderbugt, 68° 18' N. lat. 32° 15' W. long. Altit.: Leg.: Lars Kliim - Nielsen 28. juli 1971 Det. \"",
+            {
+                "entities": [
+                    [10, 91, "HEADER"],
+                    [109, 129, "PLANT"],
+                    [136, 191, "LOC"],
+                    [191, 208, "LAT"],
+                    [209, 225, "LON"],
+                    [232, 260, "PERSON"],
+                    [261, 279, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Botanical Museum of the University, Copenhagen Plants of West Greenland No. 622 Gravstuen was tredis (Lej Enther Loc. Vunnit, Rasmle lar. 6borg N., Long 48° 30' W., Alt. Gen m.m. Date 3/7 57 Leg. Simon Lægaard Det. i den \"",
+            {
+                "entities": [
+                    [10, 81, "HEADER"],
+                    [86, 110, "PLANT"],
+                    [116, 142, "LON"],
+                    [143, 156, "LAT"],
+                    [158, 169, "LON"],
+                    [189, 197, "DATE"],
+                    [201, 219, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Greenland Botanical Survey No. 84-191 W. 5. upest 2. S. Allørensen i Kommunen Carex tu Hmb: S-facing, dry Vaccinium uliginosum-Salix glauca- Loc. NW Disko, Hammers Dal, N of the river Lat. 7009' N., Long. 54° 43' W. Aix. 175 m Date 1984, July 30 Leg: Bent Fredskild \"",
+            {
+                "entities": [
+                    [10, 63, "HEADER"],
+                    [139, 177, "PLANT"],
+                    [178, 220, "LOC"],
+                    [221, 234, "LAT"],
+                    [236, 249, "LON"],
+                    [264, 286, "DATE"],
+                    [288, 302, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Carex nigra (L.) Rudolph. x C. valg Wbg. Det. Jon Feilberg 8,5, 1979 Botanic Museum of the University, Copenhagen Greenland Plants Carex Goodenoughighii Gayer C. subspathacea Wormskj. Loc. Qingua i Tunugdliarfik Fg. No 1985 22/7 1937 leg. et det. Johs. Grøntved \"",
+            {
+                "entities": [
+                    [8, 26, "PLANT"],
+                    [51, 68, "PERSON"],
+                    [69, 78, "DATE"],
+                    [79, 146, "HEADER"],
+                    [147, 193, "PLANT"],
+                    [194, 221, "LOC"],
+                    [234, 243, "DATE"],
+                    [244, 271, "DATE"]
+                ]
+            }
+        ],
+        [
+            "        \" Botanic Museum of the University, Copenhagen Greenland Plants No. 2400. Draba incana L. Loc. Upernaviarssuk, 1 Klpper med Krat. ca. 70-80 m.s. m. Leg. Johs. Grönted Date: 6.VII.1953. Det. Idem \"",
+            {
+                "entities": [
+                    [10, 71, "HEADER"],
+                    [82, 97, "PLANT"],
+                    [98, 127, "LOC"],
+                    [156, 174, "PERSON"],
+                    [175, 192, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense 99.5. Plantae Groenlandicae No. 83-4559 Woodsia ilvensis (L.) R.Br. Hæb.: Sunny S-exposed rock slope. Diskofjord, Kunersuit. Loc. 69° 36' N., Long° 53° 22' W., Ait. 300 m Lat. 30.8.1983 Leg: Jon Feilberg Date Det. \"",
+            {
+                "entities": [
+                    [10, 64, "HEADER"],
+                    [77, 98, "PLANT"],
+                    [111, 161, "LOC"],
+                    [167, 177, "LAT"],
+                    [179, 195, "LON"],
+                    [213, 222, "DATE"],
+                    [223, 250, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Greenland Botanical Survey No. 86-96 W.5. med alle Aarhus alpina L. indkommende Kommuner Matr: Low Salix glauca scrub on Sw-exposed gravely scree. Loc. Disko, Østerlion at Godhavn Lat. 69° 15' N. Long. 53031' W., Alt. 30 m 1986, June 24 Læg. & det: Vilhelm Dalga \"",
+            {
+                "entities": [
+                    [10, 63, "HEADER"],
+                    [88, 101, "PLANT"],
+                    [136, 154, "PLANT"],
+                    [184, 216, "LOC"],
+                    [217, 232, "LAT"],
+                    [233, 248, "LON"],
+                    [260, 273, "DATE"],
+                    [274, 299, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Greenland Botanical Survey Knud Rasmussen Mindeekspedition 1979 No. 513 W. 4. ummernemmermaammen. Bevilgedes Ulla nana L. Kommunens Kommune Kommunermerekommuner Hab.: Loc W. Greenland, entrance of Søndre Strømfjort, south of Qeqarsiaq Lat. 66°1' N., Long 53° 27' W. Alt. 0-25 m 1979, August 28 Leg. et der: Christian Bay & Bent Fr d kild \"",
+            {
+                "entities": [
+                    [10, 95, "HEADER"],
+                    [135, 158, "PLANT"],
+                    [202, 271, "LOC"],
+                    [272, 285, "LAT"],
+                    [285, 302, "LON"],
+                    [315, 330, "DATE"],
+                    [331, 364, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Botanical Museum of the University, Copenhagen the botanical expedition to West Greenland 1858 Vascular Plants No. 11 Jensen Castanlæs om Loc. Evighedsfjorden, Kangiusseaf Lat.65° 53' N. Date 4/7 1958 leg. Long.52° 15' W. Tyge W. Böcher Det. 1 Alt. \"",
+            {
+                "entities": [
+                    [8, 120, "HEADER"],
+                    [128, 144, "PLANT"],
+                    [148, 181, "LOC"],
+                    [182, 196, "LAT"],
+                    [197, 210, "DATE"],
+                    [211, 231, "LON"],
+                    [232, 246, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Universitetets botaniske Museum, København. Museum botanicum Hauniense. „Danmark” Expeditionen, 1906-1908. 396 Carex indgaa R. Br. Groenlandia bor-orient.: Perindmetor fjelø. leg. Andr. Lundager. 15 Aug. 1907 \"",
+            {
+                "entities": [
+                    [10, 116, "HEADER"],
+                    [121, 140, "PLANT"],
+                    [166, 184, "LOC"],
+                    [185, 205, "PERSON"],
+                    [206, 220, "DATE"]
+                ]
+            }
+        ],
+        [
+            "        \" None Museum Botanicum Hauniense Greenland Plants Agrostis Stolen Communnennings Kommune Kommuner Loc. S.Grl.: Unartok Island N., Long. W., Alt. Lat. Det. Carlo Hansen Date August 1963 leg. C.A. Jørgensen Un 02,201 - 5 \"",
+            {
+                "entities": [
+                    [15, 58, "HEADER"],
+                    [59, 74, "PLANT"],
+                    [107, 134, "LOC"],
+                    [137, 147, "LON"],
+                    [159, 176, "PERSON"],
+                    [177, 193, "DATE"],
+                    [194, 213, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" DEN DANSKE ARKTISKE STATION. DISKO, GRØNLAND Erigeron borealis Vierh) Sum Syd-Grønl. Amitsuarssap Qingua, Agdluitsoq-Fjord, 60\\\" 45' N. 31. Juli 1925. A. E.Porsild & M. P. Porsild. \"",
+            {
+                "entities": [
+                    [10, 54, "HEADER"],
+                    [55, 79, "PLANT"],
+                    [80, 132, "LOC"],
+                    [146, 160, "DATE"],
+                    [161, 190, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Botanic Museum of the University, Copenhagen Greenland Plants The trield Danish Expedition to East Greenland 1931—34. No 2315. Melandryum affine J.Vahl Lat. 77° 17' Long.18° 26' Alt. Loc. Cape Marie Valdemar. Brd-ptace (Fugletop.) Thorv. Sørensen Date: 15. VIII. 1933. Det. i dem. \"",
+            {
+                "entities": [
+                    [10, 127, "HEADER"],
+                    [137, 154, "PLANT"],
+                    [162, 173, "LAT"],
+                    [175, 186, "LON"],
+                    [193, 240, "LOC"],
+                    [241, 256, "PERSON"],
+                    [257, 278, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum botanicum hauniense Kommunen kommune Plantae Groenlandicae 22 No. 27 E.3. Lan Carex bigelowii Torr. Do Loc. i Ammassalik Ø,between Kong Oscars Havn and Jordlortoq Sø Ral 65° 39' N, 37° 38' W leg.: Bültmann, Daniëls, Alt..: Läuterbusch Det.: Chr. Bay Date: 1995, July 25 \"",
+            {
+                "entities": [
+                    [10, 75, "HEADER"],
+                    [91, 110, "PLANT"],
+                    [120, 186, "LOC"],
+                    [187, 196, "LAT"],
+                    [196, 207, "LON"],
+                    [208, 231, "PERSON"],
+                    [252, 266, "PERSON"],
+                    [267, 286, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" frish expedition to Northeast Greenland 1987 Carex? stans x saxatilis Pools near top of radio Hill 24/7 77° 39' N, 20° 50' W Leg.R.Goodwillie No. 98 det. \"",
+            {
+                "entities": [
+                    [10, 54, "HEADER"],
+                    [55, 79, "PLANT"],
+                    [80, 108, "PLANT"],
+                    [114, 123, "LAT"],
+                    [125, 134, "LON"],
+                    [135, 151, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Grønlands Botaniske Undersøgelse Plantae Groenlandicae No. 68-1628 Papaver radicatum R07B. ne. of Qingua Leg. Signe Frederiksen & Liste Holt Jørgensen Lat. 62° 18' N., Long. 49° 10' W. 730 m. a.s.1. 21. juli 1968 Det. \"",
+            {
+                "entities": [
+                    [10, 91, "HEADER"],
+                    [104, 121, "PLANT"],
+                    [142, 187, "PERSON"],
+                    [188, 203, "LAT"],
+                    [203, 221, "LON"],
+                    [236, 249, "DATE"]
+                ]
+            }
+        ],
+        [
+            "        \" Museum Botanicum Hauniense Plants of Greenland No.7 n. 8. ommune Draba lactea Adams Kommunen Hmb: Hunmocks in shallow streams, or along side. loc Washington Land, head of Cass Fjord Lat. 80°07' N.,long. 63° 30' W., At Leg.: Laurence de Bonneval 1977, july 1/2 Det: idem \"",
+            {
+                "entities": [
+                    [10, 56, "HEADER"],
+                    [75, 87, "PLANT"],
+                    [88, 191, "LOC"],
+                    [192, 206, "LAT"],
+                    [207, 223, "LON"],
+                    [234, 254, "PERSON"],
+                    [255, 269, "DATE"],
+                    [270, 279, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Udbetaling Museum Botanicum Hauniense Plants of North Greenland Greenland Botanical Survey N. & No. 85 - 129 pr.) Bge. Braya purpure rascens (R. Kommunen Habe: Old, silty and dryriverbed. Loc. Peary Land, Frigg Fjord ate 1 m Lab 83910' N. i Long. 34° 10' W. Date 1985. July 31 Lag: Christian Bay \"",
+            {
+                "entities": [
+                    [10, 100, "HEADER"],
+                    [129, 150, "HEADER"],
+                    [198, 230, "LOC"],
+                    [235, 248, "LAT"],
+                    [251, 267, "LON"],
+                    [268, 286, "DATE"],
+                    [287, 305, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Museum Botanicum Hauniense Grønlands Botaniske Undersøgelse Plantae Groenlandicae b. 66-25 trifidus L. leg. (Parle Gravesen Iussortussut Palle Gravesen Lat. 60° 11' N., Long. 44° 17' W. 2. august 1966 Det. Un 02,201 - 5 \"",
+            {
+                "entities": [
+                    [8, 91, "HEADER"],
+                    [101, 112, "PLANT"],
+                    [118, 146, "LOC"],
+                    [147, 161, "PERSON"],
+                    [162, 177, "LAT"],
+                    [177, 195, "LON"],
+                    [196, 210, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Plantae Groenlandicae No. 2472 Menyanthes trifoliata L.ommennen Hmb;lake with Potamogeton alpinus and Carex saxatilis. Loc Head of Gdr. Strømfjord, E ofqardligssuit Lat, 67° 10' N., Long. 50° 43' W., alt. 300 m Date 1981, July 11 Leg: Some Holt Det.: idem \"",
+            {
+                "entities": [
+                    [10, 58, "HEADER"],
+                    [68, 100, "PLANT"],
+                    [115, 155, "PLANT"],
+                    [156, 201, "LOC"],
+                    [202, 217, "LAT"],
+                    [219, 235, "LON"],
+                    [248, 266, "DATE"],
+                    [267, 294, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Saxifraga foliolosa R.Br. River bed with wet sand. Together with Hab: Juncus castaneus, Festuca rubra and Ranunculus hyperboreus. Loc. Head of Søndre Strømfjord, Isunguara sermia, WSW of Lat. 67° 11' N.,Long 50° 22' W., Alt. 1978, Juli 22 Læg. et de: Anne Holt \"",
+            {
+                "entities": [
+                    [10, 29, "PLANT"],
+                    [80, 96, "PLANT"],
+                    [98, 111, "PLANT"],
+                    [116, 139, "PLANT"],
+                    [140, 188, "LOC"],
+                    [197, 212, "LAT"],
+                    [213, 228, "LON"],
+                    [235, 248, "DATE"],
+                    [249, 270, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Botanic Museum of the University, Copenhagen Plants of West Greenland 1947-48 Ledum groenlandicum Oed. At the base of Store Malene. Date.22/6 47 no. 229a Alt. Godthaab Loc. leg. K. Jakobsen 64° 11' N. 51° 45' W. Det. Botanic Museum of the University, Copenhagen Plants of West Greenland 1947-48 Ledum groenlandicum Oed. On store Malene. Date: 22/6 47 No. 226 Alt. Godthaab leg. K. JAkobsen Loc. 64° 11' N. 51° 45' W. Det. \"",
+            {
+                "entities": [
+                    [10, 87, "HEADER"],
+                    [88, 112, "PLANT"],
+                    [142, 154, "DATE"],
+                    [183, 199, "PERSON"],
+                    [200, 210, "LAT"],
+                    [211, 221, "LON"],
+                    [222, 304, "HEADER"],
+                    [305, 324, "PLANT"],
+                    [347, 360, "DATE"],
+                    [383, 399, "PERSON"],
+                    [405, 415, "LAT"],
+                    [416, 426, "LON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Botanical Museum of the University, Copenhagen Carl.sbergfondets scoresby sund expedition Vascular Plants No. 1025 Papaner Mads catens Støtte. Jameson Land: Gurreholm Lat. 71° 14' N., Long. 24° 30' W., Alt. (We. m. Date: (5 August 1958. leg. et det. Simon Lægaard Papaver lapponicum (Tolm.) Nordh. Gunvor Knaben det. 1966 \"",
+            {
+                "entities": [
+                    [10, 115, "HEADER"],
+                    [125, 144, "PLANT"],
+                    [153, 176, "LOC"],
+                    [177, 192, "LAT"],
+                    [194, 210, "LON"],
+                    [225, 246, "DATE"],
+                    [247, 273, "PERSON"],
+                    [274, 300, "PLANT"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Botanical Museum of the University, Copenhagen Plants of North-East Greenland Collected in Kronprins Christians Land (80-81° n.1.)1952 by Fritz H. Schwarzenbach. Melandrium apetalum (L.)Fenzl. Locality, Hekla - Svende, oldkomne stuerne Hee Strænde Licitude 80 07. Langitude 20° 30' Altrude 15 m Det. Skovargenbach Date 13.8.1952 No.) \"",
+            {
+                "entities": [
+                    [10, 171, "HEADER"],
+                    [172, 196, "PLANT"],
+                    [203, 257, "LOC"],
+                    [258, 273, "LAT"],
+                    [274, 290, "LON"],
+                    [305, 323, "PERSON"],
+                    [324, 338, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Grønlands Botaniske Undersøgelse Plantae Groenlandicae No. 65 - 2498 Phyllodoce coerula (L.) Bab. 550 m valley Lat. 6 1954' N., Long. 48° 30' W. m a.s.1. Leg. Simon Lægaard 16 17 1965. Det. Un 02,201-5 Un 02,201-8 \"",
+            {
+                "entities": [
+                    [10, 91, "HEADER"],
+                    [106, 129, "PLANT"],
+                    [141, 163, "LAT"],
+                    [165, 181, "LON"],
+                    [191, 209, "PERSON"],
+                    [210, 221, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Universitetets Botaniske Museum, København. Museum botanicum Hauniense. Den naarige danske Østgrønlandsundersøgelse 1931-33 under Ledelse af Dr. Lauge Koch. Drabn domme f. Udtelsen paa Spidsen af Eskimonds f. lul. 74c 10' W. Clævering 193 2. No.337 1/7 leg. et det. Paul Gelting. \"",
+            {
+                "entities": [
+                    [10, 166, "HEADER"],
+                    [167, 181, "PLANT"],
+                    [263, 289, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Draba crassifolia Grah. Det. Bent Fredskild 11/11 1988 Herbarium Bent Fredskild Draba lactea Adams Fam. Crucifey e det. Knud Jakobsen 1. long. 53 34 Mat. 69° 16' W ca. 300 m Sydsiden af Lyngmarksfjeldet ved Ioc. Godhavn, Disko. Basaltbund ThU-nr. Pollenpr. Land Grønland leg. Bent Fredskild 7 8 52 682 (1957 nr. Dato 26-7-1957 \"",
+            {
+                "entities": [
+                    [10, 33, "PLANT"],
+                    [34, 53, "PERSON"],
+                    [54, 64, "DATE"],
+                    [75, 89, "PERSON"],
+                    [90, 102, "PLANT"],
+                    [130, 143, "PERSON"],
+                    [147, 158, "LON"],
+                    [159, 173, "LAT"],
+                    [217, 248, "LOC"],
+                    [286, 300, "PERSON"],
+                    [322, 336, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Plants of W Greenland W. 5. No. 24 ctica Malte vennemmer ummernommunens Potentilla hvorpa med Kommunens Hmbz. Dwarf-shrub heath dominated by Vaccinium uliginosum, and eroded slopes towards ariver. Loc. Diska Nordfjord, S-side N, Long. 54° 38' W., Alt. 50-100 m Lat, 69° 57' Leg.: Beate Strandberg Date 1991, July 23 Flemming Rune Det s: \"",
+            {
+                "entities": [
+                    [10, 58, "HEADER"],
+                    [72, 119, "PLANT"],
+                    [178, 198, "PLANT"],
+                    [234, 254, "LOC"],
+                    [266, 282, "LON"],
+                    [298, 309, "LAT"],
+                    [311, 333, "PERSON"],
+                    [334, 352, "DATE"],
+                    [353, 366, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Saxifraga cfr. hyperbo A. R. Brøommennen indkommen Hmb. With moss in seeping water. At snowdrift along E-exposed rock well. Loc. Ikertg, northern branch of Akuydleq. E of Ikardlugtoq 66° 57' ’ N., long. 52° 11' W. Alt. 350 m Lat. 1978, July 31 leg: Bent Fredskild \"",
+            {
+                "entities": [
+                    [10, 38, "PLANT"],
+                    [163, 192, "LOC"],
+                    [193, 206, "LAT"],
+                    [207, 223, "LON"],
+                    [240, 253, "DATE"],
+                    [254, 273, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Museum Botanicum Hauniense Tredrsekspeditionen til Christian den X’s land 1931—33 Northeast Greenland No. Carex ursina Dew. Mourits haceae Wormslog Wollastone Foreland: Kap Giesecke lat. 74° 30' N., Long. 21940' W. Leg. Paul Gelting 1. aug. 1933 Det. Kjeld Holmen Un 02,201.5 \"",
+            {
+                "entities": [
+                    [10, 115, "HEADER"],
+                    [116, 128, "PLANT"],
+                    [149, 191, "LOC"],
+                    [192, 207, "LAT"],
+                    [209, 224, "LON"],
+                    [225, 242, "PERSON"],
+                    [243, 255, "DATE"],
+                    [256, 273, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Plants of North Greenland n. 8. Draba adansii Led. Hmb: Wet, moss-rich peat, snow-patch. Loc. Knud Rasmussen Land, Hyde Fjord, head of Volvedal Lat. 83°04' N., Long. 35 30' W. alt.320 m 1979, July 21 Leg: Ole Bennike Det: Bent Fredskild \"",
+            {
+                "entities": [
+                    [10, 68, "HEADER"],
+                    [69, 82, "PLANT"],
+                    [114, 180, "LOC"],
+                    [181, 195, "LAT"],
+                    [197, 212, "LON"],
+                    [223, 236, "DATE"],
+                    [237, 275, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Museum Botanicum Hauniense \\\" Kap Farvel Ekspeditionen 1970 S.1. G.B.V. 1738 \\\" Draba incana Do\\\" Julianehåb distr.: Pamiagdluk: - Entrance of Tasiussaq 59° 57' N. lat. 44° 21' W. long. Leg.: Niels Jacobsen 1930 18. Juli 1970 Det. \"",
+            {
+                "entities": [
+                    [10, 69, "HEADER"],
+                    [90, 107, "PLANT"],
+                    [141, 162, "LOC"],
+                    [163, 178, "LAT"],
+                    [179, 195, "LON"],
+                    [196, 216, "PERSON"],
+                    [217, 235, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" None Plantae groenlandicae a Museo botanico Hauniensi distributae. Expeditio Danica in Groenlandiam orientalem 1901—2. Carex atrata de det. Detenfald Lov. C. Kruuse ad. Far fakapi k 65° 38' n Br 25 Aug. 1902 \"",
+            {
+                "entities": [
+                    [10, 120, "HEADER"],
+                    [129, 144, "PLANT"],
+                    [145, 174, "PERSON"],
+                    [190, 201, "LAT"],
+                    [205, 219, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Grønlands Botaniske Undersøgelse Plantae Groenlandicae 70. 64 - 366 Saxifraga caespitosa Lo det. Kjeld Holmen Máukarneq Lat. 60° 1' N., Long. 44° 48' W. Carlo Hansen Peter Milan Petersen 5.VIII.1964 Un 02,201 - 5 \"",
+            {
+                "entities": [
+                    [10, 91, "HEADER"],
+                    [105, 128, "PLANT"],
+                    [129, 146, "PERSON"],
+                    [147, 156, "LOC"],
+                    [157, 171, "LAT"],
+                    [173, 189, "LON"],
+                    [190, 202, "PERSON"],
+                    [203, 223, "PERSON"],
+                    [224, 235, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense - Flora groenlandica Draba macrocarpa Adams Uglehøj 2 - Hvalstetten lat.76° 55' N., long.20° 15' W. No: leg. Paul Gelting m. 8/8-19 39 alt. \"",
+            {
+                "entities": [
+                    [10, 57, "HEADER"],
+                    [58, 74, "PLANT"],
+                    [75, 104, "LOC"],
+                    [105, 119, "LAT"],
+                    [121, 136, "LON"],
+                    [141, 158, "PERSON"],
+                    [162, 171, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" - Museum Botanicum Hauniense Grønlands Botaniske Undersøgelse Plantae Groenlandicae No. 65-3080 Agrostis canina L. 550 m valley Lat. 6 1954' N., Long. 48° 30' W. m a.s.1. Leg. Simon Lægaard 6 I 8 1965. Det. Un 02,201.5 \"",
+            {
+                "entities": [
+                    [12, 93, "HEADER"],
+                    [106, 124, "HEADER"],
+                    [138, 153, "LAT"],
+                    [155, 171, "LON"],
+                    [181, 199, "PERSON"],
+                    [200, 211, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense ommer Grønlands Botaniske Undersøgelse Plantae Groenlandicae E.3. No. 69 - 1659 Salix glauca Lovensstemmende Angmagssalik distr.: Ikasagtivaq, east of Paomartivartik 65° 54' N. lat. 37° 35' W. long. Leg: Ole Hamann 26. Juli 1969 Det. Lars Kimmi-Nielser \"",
+            {
+                "entities": [
+                    [10, 97, "HEADER"],
+                    [117, 129, "PLANT"],
+                    [146, 202, "LOC"],
+                    [203, 218, "LAT"],
+                    [219, 235, "LON"],
+                    [236, 251, "PERSON"],
+                    [252, 265, "DATE"],
+                    [266, 289, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum botanicum hauniense kommunen Plantae Groenlandicae No.: E.7. Poa abbreviata R. Br. Loc. i North Greenland, Kronprins Christian Land, W.side of Hekla Sund 80° 02' N, 20° 24' W Alt.: 0-200 m. m. leg.: T.I.Hauge Andersson Det.: Christian Bay Date: 1993, July 21 \"",
+            {
+                "entities": [
+                    [10, 67, "HEADER"],
+                    [78, 95, "PLANT"],
+                    [100, 170, "LOC"],
+                    [171, 180, "LAT"],
+                    [182, 191, "LON"],
+                    [236, 255, "PERSON"],
+                    [256, 275, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Ex University of leidester flora of east Greenland Taraxacum arcticum Trautv. lower part of Kristian Nielsens Dal near junction with Ørsted Dal 73047 N north Jameson Land 23° 30' W 11/7/1963 M. Halliday Ell20 \"",
+            {
+                "entities": [
+                    [8, 60, "HEADER"],
+                    [61, 87, "PLANT"],
+                    [154, 161, "LAT"],
+                    [168, 180, "LOC"],
+                    [181, 190, "LON"],
+                    [191, 200, "DATE"],
+                    [201, 212, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" vej Museum Botanicum Hauniense Greenland Botanical Survey V. No. 83. 182 Emoetrum nigrum L. ssp.hermaphroditum (Hagerup)Böch. N-exposed slope with heath-vegetation on solidifluction Hab. soil. Loc. Hareven, Umivinguaq Læt 70° 27' N. Long. 54° 51' W., Alr. 10 m Date 1983, July 28 Leg. & Det.: Helle Byrne & Anders Michelsen \"",
+            {
+                "entities": [
+                    [10, 67, "HEADER"],
+                    [83, 120, "PLANT"],
+                    [203, 227, "LOC"],
+                    [228, 242, "LAT"],
+                    [243, 259, "LON"],
+                    [271, 289, "DATE"],
+                    [290, 333, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Greenland Botanical Survey No. 83.190 E.5. -munens Potentilla crantzii (Cr.) G.Beck ammen Hab: Voist dwarf-shrub heath, with Salix arctica, Vaccinium uliginosum, Dryas and Rhodendron. Sw-faring, 20°. Loc. Jameson Land, Postkassen, N of Lat. 70° 51' W., At. 300 m N., Long 22° 42' 1983, August 5 leg. Some Holt & Birger Kruse Dor: Sune Holt \"",
+            {
+                "entities": [
+                    [10, 63, "HEADER"],
+                    [88, 113, "PLANT"],
+                    [162, 175, "PLANT"],
+                    [177, 197, "PLANT"],
+                    [199, 220, "PLANT"],
+                    [237, 254, "LOC"],
+                    [273, 288, "LAT"],
+                    [304, 316, "LON"],
+                    [317, 331, "DATE"],
+                    [332, 378, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense plantae vasculares groenlandicae Eskiccatae 291. Alopecurus aequalis Sobol. Hab. cum Equisato variegato Cariceque saxatili in fundo stagni aqua aestituti. Groenlandia occidentalis: Diskoproope Godhavn (69° 15° at. bor., 54° 33' long. occ.) altit. 150 m 23. Aug. 1961 Simon Læg: \"",
+            {
+                "entities": [
+                    [10, 80, "HEADER"],
+                    [86, 105, "PLANT"],
+                    [141, 159, "PLANT"],
+                    [192, 237, "LOC"],
+                    [239, 246, "LAT"],
+                    [255, 270, "LON"],
+                    [288, 303, "DATE"],
+                    [304, 313, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Grønlands Botaniske Undersøgelse Plantae Groenlandicae + 589 - No. 6 7 Rumex acetosella L. det. K. Holmen Kugsuaq Carlo Hansen Lat. 60° 16' N., Long. 44° 43' W. Peter Milan Petersen 13.VI.1964 Tem Simitmand Un 02,201-5 \"",
+            {
+                "entities": [
+                    [10, 91, "HEADER"],
+                    [108, 124, "PLANT"],
+                    [125, 163, "PERSON"],
+                    [164, 179, "LAT"],
+                    [181, 197, "LON"],
+                    [198, 218, "PERSON"],
+                    [219, 229, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense \\\" Grønlands Botaniske Undersøgelse Plantae Groenlandicae W.2. G.B.V. 3308 ommune Draba aurea M. Vahl Fiskenæsset distr.: Quvinigdip, the western side of the lake 62° 54' N.lat. 49° 53' W.long Leg: Henrik Andersen 24. juli 1971 K.Damsholt Det. Paa vejen \"",
+            {
+                "entities": [
+                    [10, 94, "HEADER"],
+                    [119, 133, "PLANT"],
+                    [139, 199, "LOC"],
+                    [200, 214, "LON"],
+                    [215, 229, "LON"],
+                    [230, 250, "PERSON"],
+                    [251, 264, "DATE"],
+                    [265, 275, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Grønlands Botaniske Undersøgelse Plantae Groenlandicae No. 930 Eriophorum scheuchzeri Hoppe Tunugdliarfik: Qingua Lat. 61° 14' N., Long. 45° 31' W. P. Carlo Hansen 10 m a.s.1. Leg. 12/ 7 1962. Det. Un02,201-5 Museum Botanicum Hauniense S. L.Prikket J.F. \"",
+            {
+                "entities": [
+                    [10, 91, "HEADER"],
+                    [100, 122, "PLANT"],
+                    [123, 150, "LOC"],
+                    [151, 166, "LAT"],
+                    [168, 184, "LON"],
+                    [185, 200, "PERSON"],
+                    [218, 229, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" No. 71 W. Saxifraga nivalis L. Hab: Loc. Sukkertoppen district, Amitsuatsiaq Alt. 400 m. Lat. 65° 23' N., Long 51° 40' W., Leg.: Vidar Holthe 1978, July 22 Det: Sune Holt \"",
+            {
+                "entities": [
+                    [20, 40, "PLANT"],
+                    [46, 86, "LOC"],
+                    [99, 114, "LAT"],
+                    [116, 131, "LON"],
+                    [133, 151, "PERSON"],
+                    [152, 165, "DATE"],
+                    [166, 180, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Plantae Groenlandicae W.4. No. 3489 om Kommunale Kancus castaneus Sm. Hmb: Moist fell-field, together with Juncus triglumis, Kobresia simpliciuscula, Ameria scabra and Campanula uniflora. Loc. Ndr. Strømfjord, Hvidöre W. At.320 m N., Long 50° 46' Lok 67° 48' Leg. & det: Jon Feilberg 1981, September 21 \"",
+            {
+                "entities": [
+                    [10, 58, "HEADER"],
+                    [86, 102, "PLANT"],
+                    [144, 160, "PLANT"],
+                    [162, 185, "PLANT"],
+                    [187, 224, "PLANT"],
+                    [225, 254, "LOC"],
+                    [271, 282, "LON"],
+                    [296, 320, "PERSON"],
+                    [321, 339, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Greenland Botanical Survey No. 83-4345 munens arcticus Willd. indkommen Kommunale Kommissionen Frost soil of raised marine clay. Hab. Loc. Nøgsuaq, Sargaq Lat. 7001' N., Long. 51057' W., Alk. 50 m Lag. & Det: Bent Freg. Date 1983, August 5 \"",
+            {
+                "entities": [
+                    [10, 63, "HEADER"],
+                    [76, 91, "PLANT"],
+                    [171, 191, "LOC"],
+                    [192, 205, "LAT"],
+                    [207, 222, "LON"],
+                    [232, 256, "PERSON"],
+                    [257, 276, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Salix arctug Pall. 1982 Det. Christian Bay Museum Botanicum Hauniense Plantae Groenlandicae No. 5142 N. 7. me Kommunens Kommune Salix S. D.Kommennen Kommuner Hab.: S-exposed slope, dominated by Carex stans. Loc. Ulrik Fjord, Iso Lat. 77° 12' N., Long 688' W., Alt. C.50 m 1950, July 31 Leg: et det. Knud Jakobsen \"",
+            {
+                "entities": [
+                    [10, 28, "PLANT"],
+                    [34, 52, "PERSON"],
+                    [53, 101, "HEADER"],
+                    [138, 146, "PLANT"],
+                    [217, 233, "LOC"],
+                    [239, 254, "LAT"],
+                    [256, 268, "LON"],
+                    [282, 295, "DATE"],
+                    [296, 322, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Plantae groenlandicae a Museo botanico Hauniensi distributae. Lastrea spinulosa (L.) pintermedia Godthaab, i Klipperevner. 109it? Ostenfeld Hansen. 20.7.95 \"",
+            {
+                "entities": [
+                    [10, 71, "HEADER"],
+                    [72, 94, "PLANT"],
+                    [95, 132, "LOC"],
+                    [140, 157, "PERSON"],
+                    [158, 165, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Botanical Museum of the University, Copenhagen Greenland Plants No. Eriophorum scheuchzeri Hoppe. Lat. 75° 49' N. Long. Alt. længsø south of Loc. Besselsfjord det. Kj. Holmen Date: 8. aug. 1956 leg. F. Schwarzenbach \"",
+            {
+                "entities": [
+                    [10, 73, "HEADER"],
+                    [78, 107, "PLANT"],
+                    [108, 123, "LAT"],
+                    [151, 168, "LOC"],
+                    [169, 184, "PERSON"],
+                    [185, 203, "DATE"],
+                    [204, 225, "PERSON"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Museum Botanicum Hauniense Grønlands Botaniske Undersøgelse Plantae Groenlandicae No. 67-1386 Thalictrum alpinum L. Leg: Carlo Hansen Kangersuneq: Igdlorsuit Lars Kliim-Nielsen Lat. 60° 22' N., Long. 44° 04' W. Benjamin Øllgaard 20. juli 1967 Det: Un 02,201.8 \"",
+            {
+                "entities": [
+                    [10, 91, "HEADER"],
+                    [104, 125, "PLANT"],
+                    [126, 143, "PERSON"],
+                    [144, 167, "LOC"],
+                    [168, 186, "PERSON"],
+                    [187, 202, "LAT"],
+                    [204, 220, "LON"],
+                    [221, 238, "PERSON"],
+                    [239, 252, "DATE"]
+                ]
+            }
+        ],
+
+        [
+            "        \" Carex stylosa C.A.Mey. var. nigritella (Drej.) Fern. Hab.: Snow-patch, together with Erigeron bore- alis, Carex macloviana. Gaaphalium nor- vegicum and Veronica wormskjoldii. Lov. Lake S of Agpat, Tunugdliarfik, Julianehåb district W., Alt. Lat. 60° 55' N, Long 45° 46' Date 18.7.1975 Leg: Jon Feilberg Det.: Jon Feilberg \"",
+            {
+                "entities": [
+                    [10, 55, "PLANT"],
+                    [116, 144, "PLANT"],
+                    [145, 157, "PLANT"],
+                    [162, 184, "PLANT"],
+                    [190, 241, "LOC"],
+                    [251, 265, "LAT"],
+                    [267, 279, "LON"],
+                    [280, 294, "DATE"],
+                    [295, 312, "PERSON"],
+                    [313, 331, "PERSON"]
+                ]
+            }
+        ],
+        [
+            "        \" Museum Botanicum Hauniense Greenland Botanical Survey W. 4. No. 87 -272 Plants of West Grønland mennemmen Carex scirpoidea Michx. nærmere Hahn: In moss at a brook, together with Carex bigelowii, Polygonum viviparum and Salix arctophila. Loc. Arfersiorfik. Nunaturujuk, SE part \\\"W., Lb. 67° 57' N. Long, 50° 25' Alr, 200 m Date 1987, July 12 Lag. at det. Bont. Fredskild & Vilhelm Dalgaard \"",
+            {
+                "entities": [
+                    [10, 63, "HEADER"],
+                    [82, 115, "HEADER"],
+                    [116, 132, "PLANT"],
+                    [188, 203, "PLANT"],
+                    [205, 224, "PLANT"],
+                    [229, 246, "PLANT"],
+                    [247, 277, "LOC"],
+                    [297, 307, "LAT"],
+                    [308, 320, "LON"],
+                    [333, 351, "DATE"],
+                    [352, 399, "PERSON"]
+                ]
+            }
+        ]
+    ]
+}

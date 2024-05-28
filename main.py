@@ -176,10 +176,20 @@ def main():
             elif label == "LON":
                 lon = entity
         db.add_row(os.path.basename(img_path), header, plant, person, date, loc, lat, lon)
-
+    db.save(save_dir)
     db._print_df()
-    #
+
+def cleanup():
+    if os.path.exists(TEMP_DIR) :
+        os.rmdir(TEMP_DIR)
+    
+    if os.path.exists("out"):
+        os.remove("out/None_result.txt")
+        os.rmdir("out")
+        
+    
 if __name__ ==  "__main__":
     main()
+    cleanup()
     
 

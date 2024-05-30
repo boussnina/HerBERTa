@@ -121,6 +121,7 @@ class Database:
     def save(self, save_dir, format='csv'):
         if format == 'csv':
             self.df.to_csv(os.path.join(save_dir, "output.csv"), index=False)
+
     
     def _print_df(self):
         print(self.df)

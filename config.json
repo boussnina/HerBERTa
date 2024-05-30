@@ -2,7 +2,7 @@
     "model_paths": {
         "label_detector": "Weights/label_detector.pt",
         "ocr_model": "nhmd_base_full_final",
-        "ner_model": "MODELS/model-best-2600.2"
+        "ner_model": "MODELS/model-best-2600"
     },
     "confidence": 0.4,
     "output_directory": "OUTPUT",

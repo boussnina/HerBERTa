@@ -4,17 +4,17 @@ import pandas as pd
 import time
 import random
 
-IMAGE_PATH = "../HERBARIUM_SHEETS"
-DOWNLOAD_PATH = "../greenland_herb.csv"
 
-if not os.path.exists(IMAGE_PATH):
-    os.makedirs(IMAGE_PATH)
+
 
 class ImageDownloader:
 
-    def __init__(self, download_path):
+    def __init__(self, download_path, download_to):
         self.df = pd.read_csv(download_path).dropna(subset=['1,111-collectionobjectattachments,41.attachment.attachmentLocation'])
         self.df.rename(columns={'1,111-collectionobjectattachments,41.attachment.attachmentLocation': 'image'}, inplace=True)
+        self.download_to = download_to  
+        if not os.path.exists(download_to):
+            os.makedirs(download_to)
 
     def download_images_sequential(self, amount_of_images=10):
         downloaded_count = 0
@@ -33,7 +33,7 @@ class ImageDownloader:
                 response = requests.get(url)
                 response.raise_for_status()
                 
-                file_path = os.path.join(IMAGE_PATH, f"{name}.jpg")
+                file_path = os.path.join(self.download_to, f"{name}.jpg")
             
                 with open(file_path, 'wb') as f:
                     f.write(response.content)
@@ -57,7 +57,7 @@ class ImageDownloader:
             try:
                 response = requests.get(url)
                 response.raise_for_status()
-                file_path = os.path.join(IMAGE_PATH, f"{name}.jpg")
+                file_path = os.path.join(self.download_to, f"{name}.jpg")
                 with open(file_path, 'wb') as f:
                     f.write(response.content)
                 print(f"Successfully downloaded {name}.jpg")
@@ -69,7 +69,8 @@ class ImageDownloader:
     def _pick_random_images(self, amount_of_random_images=1):
         return self.df.sample(n=amount_of_random_images)['image'].values
         
-
+    
+        
 if __name__ == '__main__':
-    downloader = ImageDownloader(DOWNLOAD_PATH)
-    downloader.download_random_images(3)  
+    downloader = ImageDownloader()
+
